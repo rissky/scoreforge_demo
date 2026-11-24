@@ -1,0 +1,16 @@
+C:\Users\killi\source\repos\scoreforge_demo\scoreforge_console\bin\Debug\net9.0\scoreforge_console.exe
+C:\Users\killi\source\repos\scoreforge_demo\scoreforge_console\bin\Debug\net9.0\scoreforge_console.deps.json
+C:\Users\killi\source\repos\scoreforge_demo\scoreforge_console\bin\Debug\net9.0\scoreforge_console.runtimeconfig.json
+C:\Users\killi\source\repos\scoreforge_demo\scoreforge_console\bin\Debug\net9.0\scoreforge_console.dll
+C:\Users\killi\source\repos\scoreforge_demo\scoreforge_console\bin\Debug\net9.0\scoreforge_console.pdb
+C:\Users\killi\source\repos\scoreforge_demo\scoreforge_console\obj\Debug\net9.0\scoreforge_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\killi\source\repos\scoreforge_demo\scoreforge_console\obj\Debug\net9.0\scoreforge_console.AssemblyInfoInputs.cache
+C:\Users\killi\source\repos\scoreforge_demo\scoreforge_console\obj\Debug\net9.0\scoreforge_console.AssemblyInfo.cs
+C:\Users\killi\source\repos\scoreforge_demo\scoreforge_console\obj\Debug\net9.0\scoreforge_console.csproj.CoreCompileInputs.cache
+C:\Users\killi\source\repos\scoreforge_demo\scoreforge_console\obj\Debug\net9.0\scoreforge_console.sourcelink.json
+C:\Users\killi\source\repos\scoreforge_demo\scoreforge_console\obj\Debug\net9.0\scoreforge_console.dll
+C:\Users\killi\source\repos\scoreforge_demo\scoreforge_console\obj\Debug\net9.0\refint\scoreforge_console.dll
+C:\Users\killi\source\repos\scoreforge_demo\scoreforge_console\obj\Debug\net9.0\scoreforge_console.pdb
+C:\Users\killi\source\repos\scoreforge_demo\scoreforge_console\obj\Debug\net9.0\scoreforge_console.genruntimeconfig.cache
+C:\Users\killi\source\repos\scoreforge_demo\scoreforge_console\obj\Debug\net9.0\ref\scoreforge_console.dll
+C:\Users\killi\source\repos\scoreforge_demo\scoreforge_console\obj\Debug\net9.0\scorefor.49BBAB94.Up2Date
